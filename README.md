@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Waifu X Java</h1>
-  <img src="https://imgur.com/gallery/when-waifu-is-nigerian-princess-SwPWayq" width="600px">
+  <img src="https://tenor.com/bVNdf.gif" width="600px">
 </div>
 
 ## Usage
