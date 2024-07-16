@@ -10,13 +10,21 @@
 
 ### Steps to Compile and Run
 
+> Clone the Repository
 ```sh
-# Clone the Repository
 git clone https://github.com/hrishavvv/WaifuXJava
+```
+> Navigate to the folder
+```sh
 cd WaifuXJava
+```
 
-# Compile the Java File
+> Compile the Java File
+```sh
 javac WaifuHub.java
+```
 
-# Run the Compiled Java Program
+> Run the Compiled Java Program
+```sh
 java WaifuHub
+```
