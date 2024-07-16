@@ -12,11 +12,8 @@
 
 ```sh
 # Clone the Repository
-git clone https://github.com/your_username/repository_name.git
-cd repository_name
-
-# Navigate to the Directory Containing Java File
-cd path_to_java_file_directory
+git clone https://github.com/hrishavvv/WaifuXJava
+cd WaifuXJava
 
 # Compile the Java File
 javac WaifuHub.java
