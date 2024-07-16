@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Waifu X Java</h1>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFvaG5ocHk3NGRyNXhqajg1d3N1bmw1bno0OHp2eW85Y3poNmdjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WcV8z3PXc7ZmjGQ7s0/giphy.gif" alt="GIF">
+  <img src="waifu-dechoji.gif" alt="GIF">
 </div>
 
 ## Usage
