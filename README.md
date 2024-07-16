@@ -1,7 +1,8 @@
 <div align="center">
   <h1>Waifu X Java</h1>
-  <img src="SwPWayq.gif" alt="GIF">
+  <img src="SwPWayq.gif" alt="GIF" width="570">
 </div>
+
 
 ## Usage
 
